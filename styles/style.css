@@ -165,14 +165,14 @@ body {
   }
 }
 
-@media screen and (min-width: 767px) and (max-width: 1024px) {
+/* @media screen and (min-width: 767px) and (max-width: 1024px) {
   .calc-container {
     width: 80vw;
     height: 80vh;
   }
 
   .calc-container__hero h1 {
-    font-size: 5rem;
+    font-size: 3rem;
   }
 
   .calc-container__hero input {
@@ -199,4 +199,4 @@ body {
   #alert {
     font-size: 3rem;
   }
-}
+} */

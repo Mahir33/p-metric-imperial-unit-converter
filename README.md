@@ -1,4 +1,7 @@
-# Project Documentation: p-metric-imperial-unit-converter
+# Project Documentation: `Metric Imperial Unit Converter`
+
+- [Repository](https://github.com/Mahir33/p-metric-imperial-unit-converter)
+- [Github Pages]()
 
 ## Overview
 
@@ -31,8 +34,7 @@ This project is a simple metric to imperial and vice versa unit converter. Users
 
 ## Contributors
 
-- [Adam Wrobel GitHub]
-- [Contributor Name]
+- [Adam Wrobel GitHub](https://github.com/Mahir33)
 
 ## License
 
