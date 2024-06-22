@@ -100,7 +100,7 @@ body {
   text-align: center;
 }
 
-.calc-container__results div h3 {
+.calc-container__results div h2 {
   font-size: 1.8rem;
   font-weight: 400;
   color: rgb(14, 56, 95);
@@ -152,7 +152,7 @@ body {
     border-radius: 1rem;
   }
 
-  .calc-container__results div h3 {
+  .calc-container__results div h2 {
     font-size: 2;
   }
 
@@ -188,7 +188,7 @@ body {
     border-radius: 1rem;
   }
 
-  .calc-container__results div h3 {
+  .calc-container__results div h2 {
     font-size: 4rem;
   }
 
