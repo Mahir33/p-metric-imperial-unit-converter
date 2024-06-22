@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="With this web App you can convert imperial unit to metric unit and metric unit to imperial unit."
+    />
+    <title>Metric Imperial Unit Conversion</title>
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <div class="calc-container">
+      <div class="calc-container__hero">
+        <h1>Metric/Imperial Unit Container</h1>
+
+        <input name="unit" id="unit" type="text" />
+        <span id="alert">The unit value is required</span>
+        <button>Convert</button>
+      </div>
+
+      <div class="calc-container__results">
+        <div class="calc-container__result__meter-feet">
+          <h3>Length (Meter/Feet)</h3>
+          <p>
+            <span class="provided-unit">0</span> meters =
+            <span class="calc-feet">0</span> feet |
+            <span class="provided-unit">0</span> feet =
+            <span class="calc-meters">0</span> meters
+          </p>
+        </div>
+        <div class="calc-container__result__liters-gallons">
+          <h3>Volume (Liters/Gallons)</h3>
+          <p>
+            <span class="provided-unit">0</span> liters =
+            <span class="calc-gallon">0</span> gallons |
+            <span class="provided-unit">0</span> gallons =
+            <span class="calc-liter">0</span> liters
+          </p>
+        </div>
+        <div class="calc-container__result__kilograms-pounds">
+          <h3>Length (Kilograms/Pounds)</h3>
+          <p>
+            <span class="provided-unit">0</span> kilos =
+            <span class="calc-pounds">0</span> pounds |
+            <span class="provided-unit">0</span> pounds =
+            <span class="calc-kilos">0</span> kilos
+          </p>
+        </div>
+      </div>
+    </div>
+    <script src="js/script.js"></script>
+  </body>
+</html>
