@@ -120,7 +120,7 @@ body {
 }
 
 /* Mobile */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   body {
     display: block;
   }
@@ -165,7 +165,7 @@ body {
   }
 }
 
-/* @media screen and (min-width: 767px) and (max-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   .calc-container {
     width: 80vw;
     height: 80vh;
@@ -199,4 +199,4 @@ body {
   #alert {
     font-size: 3rem;
   }
-} */
+}
