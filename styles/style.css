@@ -175,7 +175,7 @@ body {
     font-size: 3rem;
   }
 
-  .calc-container__hero input {
+  .calc-container__hero input#unit {
     width: 200px;
     height: 100px;
     border: 4px solid #9dbff8;
